@@ -1,0 +1,139 @@
+body{
+  overflow-x: hidden;
+}
+.bg-theme{
+  background-color: black
+}
+.bgHeader{
+  background-color: transparent;
+  color: white;
+}
+.bg-me{
+  background-color: transparent;
+}
+.bgOne{
+  background-image: url("images/purpsmoke.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+}
+.img-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 1px 1px 1px rgb(190, 190, 190);
+}
+.top-items {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navText{
+  color: #ccf0c3;
+  text-shadow: 1px 1px 1px 1px white
+}
+.yellowText{
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 1px 1px rgb(255, 255, 255);
+}
+.my-button{
+  background-color: transparent;
+  border-radius: 25px;
+  color: goldenrod;
+  cursor: pointer;
+}
+.bg-trans{
+  background-color: transparent;
+}
+.about-me{
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-end;
+  max-width: 75%;
+  padding-left: 25%;
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 1px purple;
+  margin-top: 12rem;
+}
+.tunnel{
+  background-image: url("images/tunnel.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 600px;
+  width: 100vw;
+}
+.border{
+  border-style: outset;
+  border-color: whitesmoke;
+  border-width: 1px;
+}
+.bg-white{
+  background-color: wheat;
+  color: purple;
+  width: 100vw;
+  height: 400px;
+}
+.gold{
+  background-color: goldenrod;
+}
+.guitar{
+  background-image: url("images/guitars.jpg");
+  width: 100vw;
+  height: 300px;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+.rhino{
+  background-image: url("images/rhino.jpg");
+  width: 100vw;
+  height: 300px;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  align-items: center;
+}
+.hand{
+  background-image: url("images/hand.jpg");
+  width: 100vw;
+  height: 300px;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  align-items: center;
+}
+  
+.grad{
+  background-image: url("images/grad.JPG");
+  width: 100vw;
+  height: 300px;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  text-shadow: 1px black;
+  align-items: center;
+}
+.footer-bg{
+  background-color: black;
+  color: white;
+  height: 100px;
+  width: 100vw;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.footer-text{
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.contacticons{
+  justify-content: space-around;
+}
