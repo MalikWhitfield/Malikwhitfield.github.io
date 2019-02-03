@@ -74,8 +74,7 @@ body{
   border-width: 1px;
 }
 .bg-white{
-  background-color: wheat;
-  color: purple;
+  background-color: red;
   width: 100vw;
   height: 400px;
 }
@@ -110,7 +109,7 @@ body{
   align-items: center;
 }
   
-.grad{
+img.grad{
   background-image: url("images/grad.JPG");
   width: 100vw;
   height: 300px;
@@ -136,4 +135,9 @@ body{
 }
 .contacticons{
   justify-content: space-around;
+}
+
+img.my-icon-style{
+  height: 12rem;
+  width: 12rem;
 }
