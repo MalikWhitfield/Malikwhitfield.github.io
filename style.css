@@ -81,6 +81,9 @@ body{
 .gold{
   background-color: goldenrod;
 }
+.hover{
+cursor: pointer;
+}
 .guitar{
   background-image: url("images/guitars.jpg");
   width: 100vw;
