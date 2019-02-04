@@ -107,7 +107,7 @@ img.grad{
 .footer-bg{
   background-color: black;
   color: white;
-  height: 300px;
+  height: 100px;
   width: 100vw;
   justify-content: center;
   flex-direction: column;
@@ -128,5 +128,5 @@ img.my-icon-style{
 }
 img.screenshot{
   height: 200px;
-  width: 250px
+  width: 220px
 }
