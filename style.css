@@ -74,7 +74,7 @@ body{
   border-width: 1px;
 }
 .bg-white{
-  background-color: red;
+  background-color: white;
   width: 100vw;
   height: 400px;
 }
@@ -93,25 +93,7 @@ cursor: pointer;
   text-align: center;
   align-items: center;
 }
-.rhino{
-  background-image: url("images/rhino.jpg");
-  width: 100vw;
-  height: 300px;
-  justify-content: center;
-  text-align: center;
-  color: white;
-  align-items: center;
-}
-.hand{
-  background-image: url("images/hand.jpg");
-  width: 100vw;
-  height: 300px;
-  justify-content: center;
-  text-align: center;
-  color: white;
-  align-items: center;
-}
-  
+
 img.grad{
   background-image: url("images/grad.JPG");
   width: 100vw;
@@ -141,6 +123,6 @@ img.grad{
 }
 
 img.my-icon-style{
-  height: 12rem;
-  width: 12rem;
+  height: 7rem;
+  width: 7rem;
 }
